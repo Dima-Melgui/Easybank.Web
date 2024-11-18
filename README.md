@@ -1,4 +1,3 @@
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -18,11 +17,12 @@ Your users should:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
+### Links
 
 
+- Live Site URL: https://dima-melgui.github.io/Easybank.Web/
 
-
-
+## My process
 
 ### Built with
 
@@ -33,6 +33,3 @@ Your users should:
 - Vite
 - Flexbox
 - Mobile-first workflow
-
-
-
